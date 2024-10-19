@@ -94,7 +94,7 @@
 ![Pipelines](https://img.shields.io/badge/Pipelines-1F222E?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-1F222E?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-1F222E?style=flat-square)
-![Graylog](https://img.shields.io/badge/Graylog-1F222E?style=flat-square)
+![Graylog](https://img.shields.io/badge/Graylog-1F222E?style=flat-square&logo=graylog&logoColor=#FF3633)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1F222E?style=flat-square&logo=rabbitmq&logoColor=#FF6600)
 ![Docker](https://img.shields.io/badge/Docker-1F222E?style=flat-square&logo=docker&logoColor=#2496ED)
 ![Jasper](https://img.shields.io/badge/Jasper-1F222E?style=flat-square)
