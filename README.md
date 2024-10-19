@@ -28,7 +28,7 @@
 ![Typecript](https://img.shields.io/badge/Typecript-1F222E?style=flat-square&logo=typescript&logoColor=#3178C6)
 ![Python](https://img.shields.io/badge/Python-1F222E?style=flat-square&logo=python&logoColor=#3776AB)
 ![C](https://img.shields.io/badge/C-1F222E?style=flat-square&logo=c&logoColor=#A8B9CC)
-![C++](https://img.shields.io/badge/C++-1F222E?style=flat-square&logo=c++&logoColor=#00599C)
+![C++](https://img.shields.io/badge/C++-1F222E?style=flat-square&logo=cplusplus&logoColor=#00599C)
 ![Golang](https://img.shields.io/badge/Golang-1F222E?style=flat-square&logo=go&logoColor=#00ADD8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1F222E?style=flat-square&logo=kotlin&logoColor=#7F52FF)
 
@@ -141,7 +141,7 @@
 <details>
   <summary> Last Updated </summary>
   </br>
-  <p>19/10/2024 20:00:00 UTC+8</p>
+  <p>19/10/2024 22:40:00 UTC+8</p>
   <p>🕑︎ Time Zone: Kuala Lumpur/M'sia</p>
 </details>
 
