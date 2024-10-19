@@ -19,7 +19,7 @@
    <img alt="Pjou" src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Pjou;A+Software+Engineer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
-# 💻 Tech
+# 💻 Skills
 <h3>Programming Languages</h3>
 
 ![C#](https://img.shields.io/badge/C_Sharp-1F222E?style=flat-square&logo=dotnet&logoColor=#512BD4)
@@ -86,6 +86,32 @@
 ![Code Coverage](https://img.shields.io/badge/Code_Coverage-1F222E?style=flat-square)
 ![SonarQube](https://img.shields.io/badge/SonarQube-1F222E?style=flat-square&logo=sonarqube&logoColor=#4E9BCD)
 ![SonarLint](https://img.shields.io/badge/SonarLint-1F222E?style=flat-square&logo=sonarlint&logoColor=#CB2029)
+
+<h3>Other</h3>
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1F222E?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CICD-1F222E?style=flat-square)
+![Pipelines](https://img.shields.io/badge/Pipelines-1F222E?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-1F222E?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-1F222E?style=flat-square)
+![Graylog](https://img.shields.io/badge/Graylog-1F222E?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1F222E?style=flat-square&logo=rabbitmq&logoColor=#FF6600)
+![Docker](https://img.shields.io/badge/Docker-1F222E?style=flat-square&logo=docker&logoColor=#2496ED)
+![Jasper](https://img.shields.io/badge/Jasper-1F222E?style=flat-square)
+![Flipper](https://img.shields.io/badge/Flipper-1F222E?style=flat-square)
+![Kong API](https://img.shields.io/badge/Kong_API-1F222E?style=flat-square&logo=kong&logoColor=#003459)
+![Postman](https://img.shields.io/badge/Postman-1F222E?style=flat-square&logo=postman&logoColor=#FF6C37)
+![Insomnia](https://img.shields.io/badge/Insomnia-1F222E?style=flat-square&logo=insomnia&logoColor=#4000BF)
+![Git](https://img.shields.io/badge/Git-1F222E?style=flat-square&logo=git&logoColor=#F05032)
+![Game Development](https://img.shields.io/badge/Game_Development-1F222E?style=flat-square)
+
+<h3>Project Management</h3>
+
+![Scrum](https://img.shields.io/badge/Scrum-1F222E?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-1F222E?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-1F222E?style=flat-square)
+![Waterfall](https://img.shields.io/badge/Waterfall-1F222E?style=flat-square)
+![Retrospective](https://img.shields.io/badge/Retrospective-1F222E?style=flat-square)
 
 <!--
 <img alt="Pjou's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjou00&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
